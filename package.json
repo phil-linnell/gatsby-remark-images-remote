@@ -20,16 +20,16 @@
     "@babel/core": "^7.18.0",
     "babel-preset-gatsby-package": "^2.21.0",
     "cross-env": "^7.0.3",
-    "gatsby-plugin-utils": "^3.15.0",
+    "gatsby-plugin-utils": "^4.11.0",
     "hast-util-to-html": "^6.1.0",
     "mdast-util-to-hast": "^6.0.2"
   },
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^4.19.2",
-    "gatsby-plugin-sharp": "^4.19.0",
-    "gatsby-source-filesystem": "^4.19.0"
+    "gatsby": "^5.2.0",
+    "gatsby-plugin-sharp": "^5.2.0",
+    "gatsby-source-filesystem": "^5.2.0"
   },
   "repository": {
     "type": "git",
